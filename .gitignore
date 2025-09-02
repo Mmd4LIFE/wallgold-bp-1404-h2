@@ -1,0 +1,14 @@
+# data folder
+data/
+
+# charts folder
+charts/
+
+# __pycache__ folder
+__pycache__/
+
+# .DS_Store
+.DS_Store
+
+# .env
+.env
